@@ -1,0 +1,12 @@
+C:\Users\gorba\source\repos\Math\Math\bin\Debug\net5.0\Math.deps.json
+C:\Users\gorba\source\repos\Math\Math\bin\Debug\net5.0\Math.dll
+C:\Users\gorba\source\repos\Math\Math\bin\Debug\net5.0\ref\Math.dll
+C:\Users\gorba\source\repos\Math\Math\bin\Debug\net5.0\Math.pdb
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.csproj.AssemblyReference.cache
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.dll
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\ref\Math.dll
+C:\Users\gorba\source\repos\Math\Math\obj\Debug\net5.0\Math.pdb
